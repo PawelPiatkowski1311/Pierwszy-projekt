@@ -1,4 +1,4 @@
 *
-!/Assets/
-!*.gitignore
-!*README.md
+!Assets/
+!.gitignore
+!README.md
